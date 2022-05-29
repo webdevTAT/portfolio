@@ -10,12 +10,12 @@ window.addEventListener('scroll',()=>{
      if(scroll_value > .50 && scroll_value < .64){
           sp1.style.color = "white";
 
-     }else if(scroll_value > .65 && scroll_value < .73){
+     }else if(scroll_value > .65 && scroll_value < .78){
           sp2.style.color = "white";
-     }else if(scroll_value > .74 && scroll_value < .81){
+     }else if(scroll_value > .79 && scroll_value < .87){
           sp3.style.color = "white";
           
-     }else if(scroll_value > .82 && scroll_value < .90){
+     }else if(scroll_value > .88 && scroll_value < 1.10){
           sp4.style.color = "white";
      }
      else{
